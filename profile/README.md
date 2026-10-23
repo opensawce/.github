@@ -4,41 +4,31 @@
 
 # OpenSawce
 
-**Open kitchen for frontier intelligence.**
+**Open kitchen for deep tech.**
 
-[![Website](https://img.shields.io/badge/opensawce.com-E5261F?style=for-the-badge&logo=safari&logoColor=white)](https://opensawce.com)
-[![Contact](https://img.shields.io/badge/info@opensawce.com-0E0E10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@opensawce.com)
+[![Website](https://img.shields.io/badge/opensawce.com-FF6D1F?style=for-the-badge&logo=safari&logoColor=white)](https://opensawce.com)
+[![Contact](https://img.shields.io/badge/info@opensawce.com-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@opensawce.com)
 
 </div>
 
 ---
 
-We're an open research lab and builder collective moving advanced machine intelligence out of corporate control and into public hands. Not a SaaS. Not a platform. A kitchen with the door open.
+We build deeptech SaaS, research new technology and models, and share what we learn along the way.
 
 ```console
-$ opensawce cook --models large --hardware consumer --speed "comfortable reading"
+$ opensawce cook --build saas --research new-tech --share insights
 ```
 
-## 🔥 What we're cooking
+## What we do
 
-- **Local-first inference**: making big, capable models run on the hardware you already own.
-- **Open weights**: when we train it, you get it.
-- **Raw research**: training configs, gradient stats, and the failures too.
-- **Real deployments**: helping teams run local models in production.
+- **Build:** hard technical ideas packaged into software people can use. We pick problems where the technology is the product.
+- **Research:** hands-on tests of new models, tools, and techniques, so what we ship rests on what we have tried ourselves.
+- **Share:** findings, benchmarks, and honest notes on what worked and what did not, published on the blog.
 
-## 🧂 Principles
+## Get in the kitchen
 
-| | |
-|---|---|
-| **Open weights** | Release the models, not just the paper. |
-| **Show the mess** | Publish failed runs along with the wins. |
-| **Compute autonomy** | Your hardware, your model, your data. |
+- Read the [blog](https://opensawce.com/blog/) for our latest insights
+- Open an issue or start a discussion in any repo
+- Building something deep? Say hello: [info@opensawce.com](mailto:info@opensawce.com)
 
-## 🍳 Get in the kitchen
-
-- 📖 Read the [blog](https://opensawce.com), starting with TurboQuant / TurboVec for local inference
-- 🐛 Open an issue, send a PR, or start a discussion in any repo
-- 🤝 Collaborate, hire us, or press inquiries: [info@opensawce.com](mailto:info@opensawce.com)
-- 💸 Sponsor compute and help us cook bigger
-
-<div align="center"><sub>Cook freely. 🌶️</sub></div>
+<div align="center"><sub>Cook freely.</sub></div>
