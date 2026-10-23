@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/opensawce/.github/main/logo.png" width="120" alt="OpenSawce logo" />
+<img src="https://raw.githubusercontent.com/opensawce/.github/main/mascot.png" width="140" alt="Sawcy, the OpenSawce mascot" />
 
 # OpenSawce
 
